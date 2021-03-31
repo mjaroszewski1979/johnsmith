@@ -46,4 +46,4 @@ def project05():
     return render_template('project05.html')
 
 if __name__=='__main__':
-    app.run(debug=True)
+    app.run()
