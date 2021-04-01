@@ -1,4 +1,4 @@
-## John Smith
+## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/bulb.png">  &nbsp; John Smith
 ### This is a Flask application powered by Python's Smtplib built-in module for sending emails. It is compatible with devices of all sizes and provides with main functions you would expect from a portfolio type website.
 --------------------------------------------------
 
