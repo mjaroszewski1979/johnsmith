@@ -8,6 +8,7 @@
 * Bootstrap style utility classes
 * Advanced HTML and CSS minification process aims to reduce webpage loading speed
 * CSS Flexbox applied to simplify complex layout design
+* Embedded Font Awesome icon collection 
 
 -------------------------------------------------
 
