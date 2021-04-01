@@ -6,7 +6,7 @@
 * Fully responsive navigation menu  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png">
 * CSS custom properties for fast and forward-looking design
 * Bootstrap style utility classes
-* Advanced HTML and CSS minification process aims to reduce webpage loading speed
+* Advanced HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
 * CSS Flexbox applied to simplify complex layout design
 * Embedded Font Awesome icon collection 
 
