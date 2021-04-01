@@ -6,5 +6,6 @@
 * Fully responsive navigation menu
 * CSS custom properties for fast and forward-looking design
 * Bootstrap style utility classes
-* 
+* Advanced HTML and CSS minification process aims to reduce webpage loading speed
+* CSS Flexbox applied to simplify responsive layout design
 
